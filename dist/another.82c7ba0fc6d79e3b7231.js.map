@@ -1,0 +1,1 @@
+{"version":3,"file":"another.82c7ba0fc6d79e3b7231.js","mappings":";;;;;;;;;;;;AAAuB;AACvB;AACA,YAAY,kDAAM","sources":["webpack://webpack-demo/./src/another-module.js"],"sourcesContent":["import _ from 'lodash';\r\n\r\nconsole.log(_.join(['Anther', 'modele', 'loaded!'], ' '));\r\n"],"names":[],"sourceRoot":""}
